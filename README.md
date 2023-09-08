@@ -8,12 +8,12 @@ But it's still actually very easy to use!
 
 ## Here's the documentation :
 
-You can install it using pip : `pip install stupid-db`
+You can install it using pip : `pip install stupiddb`
 
 ```python
-import stupid_db
+import stupiddb
 
-db = stupid_db.StupidDatabase("my_db")
+db = stupiddb.StupidDatabase("my_db")
 
 db.set("cow", "mammal") # Set a KV pair
 

@@ -6,7 +6,7 @@ setup (
     description="The stupidest database system ever made",
     long_description= open("README.md").read(),
     long_description_content_type= "text/markdown",
-    project_urls={"GitHub Repository", "https://github.com/gugu256/StupidDB"},
+    project_urls={"GitHub Repository": "https://github.com/gugu256/StupidDB"},
     author="gugu256",
     author_email="gugu256@mail.com",
     url="https://github.com/gugu256",
