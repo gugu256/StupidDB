@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup (
-    name="StupidDB", 
+    name="stupiddb", 
     version="0.1", 
     description="The stupidest database system ever made",
     long_description= open("README.md").read(),
